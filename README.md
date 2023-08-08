@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Agustin Ludueña</h1>
 <h3 align="center">I am an engineering student from Argentina, who wants to improve my skills in the areas of AI and cybersecurity.</h3>
 
 - 🔭 I’m currently studing in **Catholic University of Cordoba**
@@ -10,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/agustin-ludueña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin ludueña" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agustin ludueña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin ludueña" height="30" width="40" /></a>
 <a href="https://instagram.com/aguss_lud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguss_lud" height="30" width="40" /></a>
 </p>
 
