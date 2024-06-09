@@ -15,6 +15,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82665758?v=4"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="15" />
@@ -38,12 +44,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82665758?v=4"  />
 
 ###
 
