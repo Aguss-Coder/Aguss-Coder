@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Aguston and I'm a developer from Argentina</h2>
+<h2 align="left">Hi 👋! My name is Agustín and I'm a developer from Argentina</h2>
 
 ###
 
